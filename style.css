@@ -1,0 +1,19 @@
+.second-row{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#container:only-child{
+    border-radius: 15px;
+    padding: 20px 10px;
+}
+#container{
+    background-color:navy;
+}
+#menu{
+    background-color: aquamarine;
+}
+#content{
+    background-color: black;
+    color: white;
+}
