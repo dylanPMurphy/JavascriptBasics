@@ -20,12 +20,12 @@
     background-color:#1b335d;
     width: 970px;
     height: 574px;
-    size:12px
+    size:12px;
 }
 #menu{
     
     border-radius: 15px;
-    padding: 5px;
+    padding: 10px;
     background-color: #2a7d8c;
     margin: 15px;
     list-style: none;
@@ -33,7 +33,7 @@
 
 }
 #menu a{
-    text-decoration: turquoise;
+
     color:turquoise;
 }
 #menu ul{
@@ -48,12 +48,12 @@
     margin:15px;
     background-color: #0e1822;
     color: white;
-    width: 715px;
+    width: 705px;
     border-radius: 15px;
     padding: 20px 10px;
 }
 #content a{
-    text-decoration: turquoise;
+
     color:turquoise;
 }
 #footer{
